@@ -45,12 +45,3 @@ if __name__ == '__main__':
     m = Model()
     m.calculate_model()
     print(m.generate_sentence())
-
-
-
-
-
-
-
-
-
